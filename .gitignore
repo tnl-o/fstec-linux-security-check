@@ -1,0 +1,35 @@
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Логи
+*.log
+
+# Результаты проверок (если сохраняются)
+check_results_*.txt
+audit_report_*.txt
+
+# Персональные данные и конфигурации
+*.local
+.env
+config.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Системные файлы
+Thumbs.db
+desktop.ini
+
+# Локальные файлы (не для публикации)
+Методические рекомендации
+README_FSTEC_CHECK.txt
+RELEASE.md
+
+# Примечание: CHANGELOG.md, CONTRIBUTING.md, README.md, LICENSE, QUICKSTART.md должны быть в репозитории
+
